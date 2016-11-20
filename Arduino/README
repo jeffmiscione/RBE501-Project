@@ -1,5 +1,10 @@
-Upload the following onto the SparkFun SAMD21 Mini Breakout (https://learn.sparkfun.com/tutorials/samd21-minidev-breakout-hookup-guide/all#introduction).
+Upload the following onto the SparkFun SAMD21 Mini Breakout
+(https://learn.sparkfun.com/tutorials/samd21-minidev-breakout-hookup-guide/all#introduction)
 
-Make sure to use the "Hardware Setup" and "Setting Up Arduino Guides" (https://learn.sparkfun.com/tutorials/samd21-minidev-breakout-hookup-guide/all#hardware-setup).
 
-Make sure to install the Arduino libraries for the BNO055 IMU (https://learn.adafruit.com/adafruit-bno055-absolute-orientation-sensor/overview).
+Make sure to use the "Hardware Setup" and "Setting Up Arduino Guides"
+(https://learn.sparkfun.com/tutorials/samd21-minidev-breakout-hookup-guide/all#hardware-setup)
+
+
+Make sure to install the Arduino libraries for the BNO055 IMU
+(https://learn.adafruit.com/adafruit-bno055-absolute-orientation-sensor/overview)
