@@ -1,5 +1,4 @@
-Upload the following onto the SparkFun SAMD21 Mini Breakout
-(https://learn.sparkfun.com/tutorials/samd21-minidev-breakout-hookup-guide/all#introduction)
+Upload the "ArduinoInterface_V1.7.ino" file onto the SparkFun SAMD21 Mini Breakout
 
 
 Make sure to use the "Hardware Setup" and "Setting Up Arduino Guides"
